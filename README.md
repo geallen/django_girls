@@ -1,2 +1,2 @@
 # django_girls
-Django Girls Izmir
+Django Girls Izmi
